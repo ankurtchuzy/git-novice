@@ -140,7 +140,7 @@ more inclusive language.
 In 2020, most Git code hosting services transitioned to using `main` as the default
 branch. As an example, any new repository that is opened in GitHub and GitLab default
 to `main`.  However, Git has not yet made the same change.  As a result, local repositories
-must be manually configured have the same main branch name as most cloud services.
+must be manually configured to have the same main branch name as most cloud services.
 
 For versions of Git prior to 2.28, the change can be made on an individual repository level.  The
 command for this is in the next episode.  Note that if this value is unset in your local Git
