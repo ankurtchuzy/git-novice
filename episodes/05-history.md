@@ -475,7 +475,7 @@ Changes to be committed:
 ```
 
 Note that if you don't have the same output
-you may either have forgotten to change the file,
+you may either have forgotten to change the file and add it to the staging,
 or you have added it *and* committed it.
 
 Using the command `git restore guacamole.md` now does not give an error,
