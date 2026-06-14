@@ -540,7 +540,7 @@ e.g., `git diff guacamole.md`. We can apply a similar idea here.
 $ git log guacamole.md
 ```
 
-Unfortunately some of these commit messages are very ambiguous, e.g., `update files`.
+Unfortunately some of these commit messages are very ambiguous, e.g., "update files".
 How can you search through these files?
 
 Both `git diff` and `git log` are very useful and they summarize a different part of the history
