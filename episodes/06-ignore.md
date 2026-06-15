@@ -204,7 +204,7 @@ Hint: Find out what `!` (the exclamation point operator) does
 
 ## Solution
 
-You would add the following two lines to your .gitignore:
+You would add the following two lines to your .gitignore without the comments:
 
 ```output
 *.png           # ignore all png files
@@ -249,7 +249,7 @@ before.
 If you want to ignore the contents of
 `pictures/` but not those of `pictures/pie/`, you can change your `.gitignore` to ignore
 the contents of pictures folder, but create an exception for the contents of the
-`pictures/pie` subfolder. Your .gitignore would look like this:
+`pictures/pie` subfolder. Your .gitignore would look like this (without the comments):
 
 ```output
 pictures/*              # ignore everything in pictures folder
